@@ -1,6 +1,6 @@
 package me.dio.sacola.resource.dto;
 
-import jakarta.persistence.Embeddable;
+import javax.persistence.Embeddable;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
